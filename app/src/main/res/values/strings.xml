@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NewFragmentDemo</string>
+
+
+    <string name="tab_menu_alert">信息</string>
+    <string name="tab_menu_profile">好友</string>
+    <string name="tab_menu_setting">我的</string>
+
+    <string name="pic1"></string>
+    <string name="my_dream">如果你无法简介的表达你的想法，那只能说明你还不够了解他。</string>
+
+    <string name="large_text">
+        "如果你无法简介的表达你的想法，那只能说明你还不够了解他.过放荡不羁的生活，容易得像顺水推舟，但要解释良师益友，却难如登天。"
+
+
+
+
+    </string>
+</resources>
